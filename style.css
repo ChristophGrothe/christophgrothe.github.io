@@ -1,0 +1,14 @@
+***General*** 
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+header {
+    background-color: green;
+    border: 3px solid;
+    height: 20px;
+}
